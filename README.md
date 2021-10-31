@@ -2,6 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/Kwakz/IASC-1P04/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+# IASC 1P04
+## Prototype
+Test my game [here](prtotype/Starship.html)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -10,11 +14,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# IASC 1P04
-## Prototype
-Test my game [here](prtotype/Starship.html)
-
+# Header 1
+## Header 2
 ### Header 3
 
 - Bulleted
