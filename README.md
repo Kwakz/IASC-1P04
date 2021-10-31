@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Kwakz/IASC-1P04/edit/main/
 
 # IASC 1P04
 ## Prototype
-Test my game [here](prtotype/Starship.html)
+Test my game [here](prototype/Starship.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
