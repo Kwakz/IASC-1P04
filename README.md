@@ -1,8 +1,8 @@
-# Welcom to Kwak's Page!
+# Welcome to Kwak's Page!
 
 # IASC 1P04
-## Prototype
-Test my game [here](prototype/Starship.html)
+## Play Now!
+Play my game [here](prototype/Starship.html)
 
 ## Please complete this survey on the game!
 
