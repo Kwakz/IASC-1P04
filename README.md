@@ -4,7 +4,7 @@
 ## Play Now!
 Play my prototype [here](prototype/Starship.html)
 
-Play my game [here](Starship (6).html)
+Play my game [here](Starship.html)
 
 ## Please complete this survey on the game!
 
