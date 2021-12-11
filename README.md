@@ -2,7 +2,9 @@
 
 # IASC 1P04
 ## Play Now!
-Play my game [here](prototype/Starship.html)
+Play my prototype [here](prototype/Starship.html)
+
+Play my game [here](https://github.com/Kwakz/IASC-1P04/blob/main/Starship%20(6).html)
 
 ## Please complete this survey on the game!
 
