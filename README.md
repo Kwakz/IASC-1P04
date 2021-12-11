@@ -2,7 +2,6 @@
 
 # IASC 1P04
 ## Play Now!
-Play my prototype [here](prototype/Starship.html)
 
 Play my game [here](Starship.html)
 
